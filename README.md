@@ -1,8 +1,8 @@
 TITLE: CodTech IT Solutions Internship - Task Documentation: “Weather Forecasting App” Using CSS, HTML, JAVASCRIPT.
 
 INTERN INFORMATION:
-Name: Namrata Kiran Tamse
-ID: COD7067
+Name:CHETAN N KALLIMANI
+ID: COD7068
 
 INTRODUCTION
 In the realm of personal productivity and organizational tools, the weather forecast app occupies a central role, universally recognized for its simplicity and effectiveness in managing tasks and priorities. Transitioning from traditional weather forecasts to a modern digital platform enhances accessibility and functionality, empowering users to stay informed efficiently. This project endeavors to revolutionize weather forecasting by crafting an application leveraging contemporary web technologies: JavaScript, HTML, and CSS.

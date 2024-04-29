@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><!--contains the meta information-->
+    <meta charset="UTF-8"><!--sets the character encoding for the document-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast App</title><!--sets the title of the webpage-->
+    <link rel="stylesheet" href="styles.css"><!-- links the exyernal css styles sheets-->
+</head>
+
+
+<body>
+    <div class="container"><!--this is an container-->
+        <h1>Weather Forecast App</h1><!--displays the headings -->
+        <input type="text" id="cityInput" placeholder="Enter city name"><!--input fiels to enter the city name-->
+        <button onclick="getWeather()">Get Weather</button><!--button that triggers get weather function-->
+        <div id="weatherInfo"></div><!--placeholder to display the weather information-->
+    </div>
+    <script src="script.js"></script><!--links to an external javascript file-->
+</body>
+</html>

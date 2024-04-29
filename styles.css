@@ -1,0 +1,50 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    background-color:palevioletred;
+} /*styling for the body*/
+
+
+.container 
+{
+    max-width: 600px;
+    margin: 200px 400px;
+    padding: 20px;
+    background-color:rgb(121, 121, 225);
+    border-radius: 10px;
+}/*styling for the container, adding the maxwidth, margin, padding, backgroundcolor, border radius*/
+
+
+input[type="text"] 
+{
+    width: 90%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}/*input box styling*/
+
+
+
+button
+ {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: yellow;
+    color:black;
+    border-color: black;
+    border-radius: 4px;
+}/*styling for the button*/
+
+
+
+button:hover
+{
+    background-color:  greenyellow;
+}/* color changing when hovered on the button*/
+
+
+
+#weatherInfo
+ {
+    margin-top: 20px;
+}/* arranging the margin top for  the empty tag where the functionality is given in the javascript*/
